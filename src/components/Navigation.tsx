@@ -49,7 +49,7 @@ const Navigation = () => {
                 <span>Call</span>
               </a>
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919441012091"
                 className="inline-flex items-center space-x-1 text-sm text-emerald-600 hover:text-emerald-700 transition-colors"
               >
                 <MessageCircle size={16} />
