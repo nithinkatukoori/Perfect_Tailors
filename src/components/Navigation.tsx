@@ -42,7 +42,7 @@ const Navigation = () => {
             ))}
             <div className="flex items-center space-x-3 ml-6 pl-6 border-l border-stone-200">
               <a
-                href="tel:+919876543210"
+                href="tel:+919441012091"
                 className="inline-flex items-center space-x-1 text-sm text-amber-700 hover:text-amber-800 transition-colors"
               >
                 <Phone size={16} />
@@ -89,7 +89,7 @@ const Navigation = () => {
               ))}
               <div className="flex items-center justify-center space-x-6 pt-4 border-t border-stone-200 mt-4">
                 <a
-                  href="tel:+919876543210"
+                  href="tel:+91944102091"
                   className="inline-flex items-center space-x-2 text-amber-700 hover:text-amber-800 transition-colors"
                 >
                   <Phone size={18} />

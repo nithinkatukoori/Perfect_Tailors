@@ -43,7 +43,7 @@ function App() {
                 <h4 className="font-medium mb-4">Contact Info</h4>
                 <div className="space-y-2 text-sm text-stone-300">
                   <p>Chikkadpally, Hyderabad</p>
-                  <p>+91 98765 43210</p>
+                  <p>+91 9441012091</p>
                   <p>Mon-Sat: 10 AM - 8 PM</p>
                   <p>Sunday: 11 AM - 4 PM</p>
                 </div>
